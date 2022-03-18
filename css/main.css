@@ -1,0 +1,38 @@
+body {
+  font-family: 'Didact Gothic';
+  background-image: url("C:/Users/Chris/Downloads/class13-materials/class13-materials/bachelor-code/1/whiterun.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 48px;
+}
+
+img {
+  height: 50vh;
+}
+
+section {
+  margin-left: 30%;
+  margin-top: 30vh;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  display: none;
+  margin: 1% auto;
+}
+
+.choseWisely, .chosePoorly {
+  display: none;
+  font-size: 48px;
+}
+
